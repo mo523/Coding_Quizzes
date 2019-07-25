@@ -17,6 +17,8 @@
 </br>
 <a href="https://open.kattis.com/problems/rockscissorspaper">Rock, Scissors, Paper</a>
 </br>
+<a href="https://open.kattis.com/problems/squarepegs">Square Pegs in a Round Hole</a>
+</br>
 <a href="https://open.kattis.com/problems/tarifa">Tarifa</a>
 </br>
 </br>
