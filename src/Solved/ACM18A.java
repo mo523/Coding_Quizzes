@@ -2,7 +2,7 @@ package Solved;
 
 import java.util.*;
 
-public class A
+public class ACM18A
 {
 	public static void main( String[] args )
 	{

@@ -1,7 +1,7 @@
 package Attempting;
 import java.util.*;
 
-public class E
+public class ACM18E
 {
 	public static void main(String[] args)
 	{
