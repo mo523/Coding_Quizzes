@@ -19,10 +19,10 @@ public class AnotherCandies
 				long n = kb.nextLong();
 				total += (n % kids == 0 ? 0 : n % kids);
 			}
-				
+
 			System.out.println(total % kids == 0 ? "YES" : "NO");
 		}
-
+		kb.close();
 	}
 
 }

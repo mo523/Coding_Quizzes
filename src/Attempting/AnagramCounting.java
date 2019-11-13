@@ -15,14 +15,13 @@ public class AnagramCounting
 		{
 			String line = kb.nextLine();
 			int len = line.length();
-			String value;
 			BigInteger bi = new BigInteger("1");
 			for (int i = 2; i < len; i++)
 				bi = bi.multiply(BigInteger.valueOf(i));
-			
+
 			System.out.println(bi);
 		}
-
+		kb.close();
 	}
 
 }

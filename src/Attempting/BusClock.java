@@ -13,6 +13,7 @@ public class BusClock
 			{ true, false, true, false, false, true, false }, { true, true, true, true, true, true, true },
 			{ true, true, true, true, false, true, true } };
 
+	@SuppressWarnings({ "unused", "serial" })
 	public static void main(String[] args)
 	{
 		Scanner kb = new Scanner(System.in);

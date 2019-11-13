@@ -12,6 +12,7 @@ public class ACM19K
 		String name = kb.nextLine();
 		System.out.println(name.matches("[^-]{2,8}-.{1,24}") ? "YES" : "NO");
 		// System.out.println(name.matches("\\w{2,8}-(\\w|-){1,24}") ? "YES" : "NO");
+		kb.close();
 	}
 
 }

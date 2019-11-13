@@ -23,7 +23,7 @@ public class ACM19J
 		for (int i = 0; i < in; i++)
 			graph[in][i] = i;
 
-		int count = 0;
+//		int count = 0;
 
 		// for ()
 		System.out.println();

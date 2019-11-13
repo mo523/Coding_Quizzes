@@ -7,7 +7,6 @@ public class ACM19H
 
 	public static void main(String[] args)
 	{
-		// TODO Auto-generated method stub
 		Scanner kb = new Scanner(System.in);
 		int lines = kb.nextInt();
 		int[] keys = new int[lines];
@@ -38,7 +37,7 @@ public class ACM19H
 			System.out.print(sorted[i] + " ");
 			count++;
 		}
-
+		kb.close();
 	}
 
 	public static boolean isPrime(int p)

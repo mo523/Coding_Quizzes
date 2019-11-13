@@ -20,5 +20,6 @@ public class ACM19G
 			count++;
 		}
 		System.out.println(count);
+		kb.close();
 	}
 }
